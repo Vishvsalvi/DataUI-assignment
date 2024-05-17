@@ -17,6 +17,7 @@ export default function Home() {
     id: string;
     dump: string;
     url: string;
+    sr?: number
   };
 
   const data: MyDataObject[] = [
