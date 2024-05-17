@@ -237,7 +237,7 @@ export default function Home() {
       </table>
 
 
-      <Pagination className="relative bottom-20" >
+      <Pagination className="relative bottom-36" >
         <PaginationPrevious onClick={prevPage} />
         <PaginationContent>
           {pageNumbers.map((num) => (
