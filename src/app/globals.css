@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+table, th, td {
+  border: 1.2px solid rgb(169, 169, 169);
+  border-collapse: collapse;
+  font-weight: 400;
+  letter-spacing: -0.5px;
+  padding: 0.5rem;
+  
+}
+  
